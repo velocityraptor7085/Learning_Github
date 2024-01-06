@@ -6,4 +6,4 @@ int main()
     return 0;
 }
 
-/// Git status; add . or add (files list) ; commit ; push 
+/// Git status; add . or add (files list) ; commit -m "message" -m "description" ; push 
